@@ -2,7 +2,8 @@
 <h3 align="center">-- El querer es poder --</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keiro18&label=Profile%20views&color=0e75b6&style=flat" alt="keiro18" /> </p>
-[![wakatime](https://wakatime.com/badge/user/4adf3951-5464-4748-9b14-ea12c7562a21.svg)](https://wakatime.com/@4adf3951-5464-4748-9b14-ea12c7562a21)
+
+<a href="https://wakatime.com/@4adf3951-5464-4748-9b14-ea12c7562a21"><img src="https://wakatime.com/badge/user/4adf3951-5464-4748-9b14-ea12c7562a21.svg" alt="Total time coded since Mar 22 2023" /></a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=keiro18&show_icons=true&theme=dark" alt="keiro18" />
 
